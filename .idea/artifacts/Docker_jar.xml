@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Docker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Docker_jar</output-path>
+    <root id="archive" name="Docker.jar">
+      <element id="module-output" name="Docker" />
+    </root>
+  </artifact>
+</component>
